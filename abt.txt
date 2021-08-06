@@ -6,5 +6,9 @@ agfhsdjfjjkdffkk 1234s test
 agfhsdjfjjkdffkk 1234s         1567.
 
 
+<<<<<<< HEAD
 sdgfhdshjfkdskfjsdjfsdjfk jdfjdskfkdsjfk
 >>>>>>> 17e09b9 (master commit 3)
+=======
+sdgfhdshjfkdskfjsdjfsdjfk jdfjdskfkdsjfk   test
+>>>>>>> c28bbc6 (commit master conflit)
